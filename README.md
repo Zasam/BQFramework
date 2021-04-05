@@ -1,4 +1,4 @@
-[![Board Status](https://nicklasw-outlook.visualstudio.com/3313b553-fe8e-445a-916a-17587a8a64bc/c871cda7-07b3-425d-a54e-b208001b5299/_apis/work/boardbadge/be61f0bd-8688-4851-8487-c62b2109c5f9?columnOptions=1)](https://nicklasw-outlook.visualstudio.com/3313b553-fe8e-445a-916a-17587a8a64bc/_boards/board/t/c871cda7-07b3-425d-a54e-b208001b5299/Microsoft.RequirementCategory/)
+[![Board Status](https://nicklasw-outlook.visualstudio.com/6c7a721b-e6ea-481d-b119-2b31dd64cad0/1dd1ac0a-6aaf-4143-ad0d-324640a66509/_apis/work/boardbadge/0c7f1811-088d-4ad7-8bb2-f1637f44509d?columnOptions=1)](https://nicklasw-outlook.visualstudio.com/6c7a721b-e6ea-481d-b119-2b31dd64cad0/_boards/board/t/1dd1ac0a-6aaf-4143-ad0d-324640a66509/Microsoft.RequirementCategory/)
 # BQFramework
 
 # Introduction
