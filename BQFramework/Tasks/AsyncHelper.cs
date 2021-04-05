@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BQFramework.Tasks
 {
-    public static class AsyncHelpers
+    public static class AsyncHelper
     {
         /// <summary>
         /// Execute's an async Task<T> method which has a void return value synchronously
